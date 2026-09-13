@@ -17,7 +17,7 @@ export default function CourseHeader({ active = '' }) {
       <nav className="lesson-header-nav" aria-label="Section navigation">
         <Link className={active === 'home' ? 'active' : ''} href="/">Trang chủ</Link>
         <Link className={active === 'dan-toc' ? 'active' : ''} href="/vandedantoc">Độc lập dân tộc</Link>
-        <Link className={active === 'cnxh' ? 'active' : ''} href="/vanchuyenxahoi">Chủ nghĩa xã hội</Link>
+        <Link className={active === 'cnxh' ? 'active' : ''} href="/vanchuyenxahoi/chu-nghia-xa-hoi">Chủ nghĩa xã hội</Link>
         <Link className={active === 'cq' ? 'active' : ''} href="/cau-hoi-cq">Câu hỏi CQ</Link>
         <Link className={active === 'quiz' ? 'active' : ''} href="/quiz">Quiz</Link>
       </nav>

@@ -31,13 +31,13 @@ export const lessonData = {
     id: '3.2.1',
     title: 'Tư tưởng Hồ Chí Minh về chủ nghĩa xã hội',
     overview: {
-      title: 'CNXH là hình thái xã hội tiến bộ',
-      text: 'Hồ Chí Minh nhìn nhận chủ nghĩa xã hội là mục tiêu lâu dài của cách mạng, gắn chặt với độc lập dân tộc và giải phóng con người khỏi áp bức.',
+      title: 'Tư tưởng Hồ Chí Minh về chủ nghĩa xã hội',
+      text: 'Theo Hồ Chí Minh: “Nói một cách tóm tắt, mộc mạc, chủ nghĩa xã hội trước hết nhằm làm cho nhân dân lao động thoát nạn bần cùng, làm cho mọi người có công ăn việc làm, được ấm no và sống một đời hạnh phúc”.',
     },
     sections: [
-      { title: '1. Mục tiêu của CNXH', detail: 'CNXH là xã hội công bằng, dân chủ, văn minh, trong đó không còn người bóc lột người, mọi người đều được sống có việc làm, có quyền làm chủ.' },
-      { title: '2. Con người là trung tâm', detail: 'Trong xã hội mới, con người không chỉ được giải phóng về chính trị mà còn được phát triển toàn diện về trí tuệ, nhân cách và đời sống vật chất.' },
-      { title: '3. Xây dựng xã hội mới bằng chính sức mạnh của nhân dân', detail: 'Hồ Chí Minh nhấn mạnh nhân dân là chủ thể, những người lao động làm chủ, đồng thời xây dựng nền văn hóa mới, nhân văn và tiến bộ.' },
+      { title: 'a. Quan niệm của Hồ Chí Minh về chủ nghĩa xã hội', detail: 'Người khẳng định mục đích của cách mạng Việt Nam là tiến đến chủ nghĩa xã hội rồi đến chủ nghĩa cộng sản, vì chủ nghĩa cộng sản có hai giai đoạn. Chủ nghĩa xã hội là xã hội ở giai đoạn đầu của chủ nghĩa cộng sản. Mặc dù còn tồn đọng tàn dư của xã hội cũ, chủ nghĩa xã hội không còn áp bức, bóc lột; xã hội do nhân dân lao động làm chủ, trong đó con người sống ấm no, tự do, hạnh phúc, quyền lợi của cá nhân và tập thể vừa thống nhất, vừa gắn bó chặt chẽ với nhau.' },
+      { title: 'b. Tiến lên chủ nghĩa xã hội là một tất yếu khách quan', detail: '' },
+      { title: 'c. Một số đặc trưng cơ bản của xã hội xã hội chủ nghĩa', detail: '' },
     ],
   },
   '3.2.2': {

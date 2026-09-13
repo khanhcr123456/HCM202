@@ -16,7 +16,7 @@ export default function Footer() {
         <nav className="footer-links" aria-label="Liên kết cuối trang">
           <Link href="/">Trang chủ</Link>
           <Link href="/vandedantoc">Độc lập dân tộc</Link>
-          <Link href="/vanchuyenxahoi">Chủ nghĩa xã hội</Link>
+          <Link href="/vanchuyenxahoi/chu-nghia-xa-hoi">Chủ nghĩa xã hội</Link>
           <Link href="/cau-hoi-cq">Câu hỏi CQ</Link>
           <Link href="/quiz">Quiz</Link>
         </nav>
