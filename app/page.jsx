@@ -358,7 +358,7 @@ function HomePage() {
             <span className="topic-more">Xem nội dung <ArrowUpRight size={16} /></span>
           </Link>
 
-          <Link className="topic-card" href="/vanchuyenxahoi">
+          <Link className="topic-card" href="/vanchuyenxahoi/chu-nghia-xa-hoi">
             <div className="topic-card-top"><span className="topic-icon"><Flag size={22} /></span></div>
             <h3>Chủ nghĩa xã hội</h3>
             <p>Khám phá quan niệm về CNXH và tư tưởng xây dựng chủ nghĩa xã hội ở Việt Nam.</p>
@@ -402,7 +402,6 @@ function LessonPage({ lessonId, setLessonId, onHome, onQuiz }) {
         return (
           <div className="content-card">
             <div className="card-head">
-              <span className="small-kicker">Chủ đề</span>
               <h4>{current.overview.title}</h4>
             </div>
 
